@@ -35,6 +35,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: TUSB8020B, two-port USB 3.0 Hub
   * url: https://www.ti.com/lit/ds/symlink/tusb8020b.pdf
   * package: Package_QFP
+* Oscillator_SMD_ECS-xxx-x-36B2-xxx-4Pin_2.5x2.0mm
+  * description: Miniature Crystal Clock Oscillator ECS 2236B2 series
+  * url: https://ecsxtal.com/store/pdf/ECX-2236B2.pdf
+  * package: Oscillator
 
 ## 3D Models
 ### KiCAD 6 plus
