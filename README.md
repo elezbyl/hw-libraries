@@ -16,6 +16,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: Two-Port USB 3.0 Hub
   * url: https://www.ti.com/lit/ds/symlink/tusb8020b.pdf
   * package: Interface_USB
+* TPS54531:
+  * description: SWIFT Step-Down Converter With Eco-mode, 5-A, 28-V Input
+  * url: https://www.ti.com/lit/ds/symlink/tps54531.pdf
+  * package: Regulator_Switching
 
 ## Footprints
 ### KiCAD 6 plus
