@@ -43,6 +43,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: Miniature Crystal Clock Oscillator ECS 2236B2 series
   * url: https://ecsxtal.com/store/pdf/ECX-2236B2.pdf
   * package: Oscillator
+* L_Bourns_SRP6540_7.2x6.5mm, L_Bourns_SRP6540_7.2x6.5mm_HandSolder
+  * description: SRP6540 Series - Shielded Power Inductors
+  * url: https://www.bourns.com/docs/product-datasheets/srp6540.pdf
+  * package: Inductor_SMD
 
 ## 3D Models
 ### KiCAD 6 plus
