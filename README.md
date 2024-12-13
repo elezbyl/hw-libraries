@@ -20,6 +20,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: SWIFT Step-Down Converter With Eco-mode, 5-A, 28-V Input
   * url: https://www.ti.com/lit/ds/symlink/tps54531.pdf
   * package: Regulator_Switching
+* USB3_B:
+  * description: USB 3.0 B connector, copy of the internal KiCAD symbol and electrical type for SSTX and SSRX signals changed - SSTX: input, SSRX: output
+  * url:
+  * package: Connector
 
 ## Footprints
 ### KiCAD 6 plus
