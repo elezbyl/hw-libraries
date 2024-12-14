@@ -55,6 +55,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: USB 3.2, Type A, Receptacle, Right Angle, 9 Pins
   * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3111xxxhr.pdf
   * package: USB_Connector
+* USB_B_Amphenol_GSB3211xxxWEU
+  * description: USB 3.2, Type B, Receptacle, Upright Reverse, 9 Pins
+  * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3211xxxweu.pdf
+  * package: USB_Connector
 
 ## 3D Models
 ### KiCAD 6 plus
@@ -69,4 +73,8 @@ This project is just set of libraries for EDA tools. Currently the following EDA
 * USB_A_Amphenol_GSB3111xxxHR
   * description: USB 3.2, Type A, Receptacle, Right Angle, 9 Pins
   * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3111xxxhr.pdf
+  * package: USB_Connector
+* USB_B_Amphenol_GSB3211xxxWEU
+  * description: USB 3.2, Type B, Receptacle, Upright Reverse, 9 Pins
+  * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3211xxxweu.pdf
   * package: USB_Connector
