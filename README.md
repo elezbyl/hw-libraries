@@ -51,6 +51,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: SRP6540 Series - Shielded Power Inductors
   * url: https://www.bourns.com/docs/product-datasheets/srp6540.pdf
   * package: Inductor_SMD
+* USB_A_Amphenol_GSB3111xxxHR
+  * description: USB 3.2, Type A, Receptacle, Right Angle, 9 Pins
+  * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3111xxxhr.pdf
+  * package: USB_Connector
 
 ## 3D Models
 ### KiCAD 6 plus
@@ -62,3 +66,7 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: TUSB8020B, two-port USB 3.0 Hub
   * url: https://www.te.com/en/product-282834-2.html
   * package: Package_QFP
+* USB_A_Amphenol_GSB3111xxxHR
+  * description: USB 3.2, Type A, Receptacle, Right Angle, 9 Pins
+  * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3111xxxhr.pdf
+  * package: USB_Connector
