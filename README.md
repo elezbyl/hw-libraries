@@ -59,6 +59,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: USB 3.2, Type B, Receptacle, Upright Reverse, 9 Pins
   * url: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb3211xxxweu.pdf
   * package: USB_Connector
+* LED_Wurth_155124RV73200
+  * description: LED, Red, Green, SMD, 120°, Dome, R 20mA, G 20mA
+  * url: https://www.we-online.com/components/products/datasheet/155124RV73200.pdf
+  * package: LED_SMD
 
 ## 3D Models
 ### KiCAD 6 plus
