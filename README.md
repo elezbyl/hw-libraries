@@ -63,6 +63,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: LED, Red, Green, SMD, 120°, Dome, R 20mA, G 20mA
   * url: https://www.we-online.com/components/products/datasheet/155124RV73200.pdf
   * package: LED_SMD
+* Relay_DPDT_AXICOM_IMSeries_ShortGullWings
+  * description: General Purpose Signal Relay, DC, Polarized, Monostable, 2 Form C DPDT-CO, 2 A Contact Rating, 250 VAC Contact Voltage, Axicom IM
+  * url: https://www.te.com/en/product-1462037-1.html
+  * package: Relay_SMD
 
 ## 3D Models
 ### KiCAD 6 plus
