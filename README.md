@@ -24,6 +24,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: USB 3.0 B connector, copy of the internal KiCAD symbol and electrical type for SSTX and SSRX signals changed - SSTX: input, SSRX: output
   * url:
   * package: Connector
+* ULN2803C:
+  * description: Darlington Transistor Arrays
+  * url: https://www.ti.com/lit/ds/symlink/uln2803c.pdf
+  * package: Transistor_Array
 
 ## Footprints
 ### KiCAD 6 plus
