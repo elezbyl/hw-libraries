@@ -5,7 +5,7 @@ This project is just set of libraries for EDA tools. Currently the following EDA
 ## Symbols
 ### KiCAD 6 plus
 * ESP-12S:
-  * description: 
+  * description:
   * url: https://www.lcsc.com/product-detail/WIFI-Modules_ESP-12S_C82898.html
   * package: RF_Module
 * AT24C04-SSHM:
@@ -32,11 +32,15 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: 4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level Shifting and 3-State Outputs With Independent Direction Control Inputs
   * url: https://www.ti.com/lit/ds/symlink/sn74avc4t774.pdf
   * package: Logic_LevelTranslator
+* SN74AXCH8T245:
+  * description: 8-Bit Dual-Supply Bus Transceiver with Configurable Voltage Translation, Tri-State Outputs, and Bus-Hold CircuitryDirection Control Inputs
+  * url: https://www.ti.com/lit/ds/symlink/sn74axch8t245.pdf
+  * package: Logic_LevelTranslator
 
 ## Footprints
 ### KiCAD 6 plus
 * ESP-12S:
-  * description: 
+  * description:
   * url: https://www.lcsc.com/product-detail/WIFI-Modules_ESP-12S_C82898.html
   * package: RF_Module
 * SO-4_6.5x4.6mm
