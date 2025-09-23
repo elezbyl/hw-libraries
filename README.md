@@ -28,6 +28,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: Darlington Transistor Arrays
   * url: https://www.ti.com/lit/ds/symlink/uln2803c.pdf
   * package: Transistor_Array
+* SN74AVC4T774PW:
+  * description: 4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level Shifting and 3-State Outputs With Independent Direction Control Inputs
+  * url: https://www.ti.com/lit/ds/symlink/sn74avc4t774.pdf
+  * package: Logic_LevelTranslator
 
 ## Footprints
 ### KiCAD 6 plus
