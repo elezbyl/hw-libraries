@@ -83,6 +83,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: General Purpose Signal Relay, DC, Polarized, Monostable, 2 Form C DPDT-CO, 2 A Contact Rating, 250 VAC Contact Voltage, Axicom IM
   * url: https://www.te.com/en/product-1462037-1.html
   * package: Relay_SMD
+* Samtec_PCIE-036-02-X-D-EMS3
+  * description: 1.00 mm PCI Express 3.0 Edge Card Connector
+  * url: https://www.samtec.com/products/pcie-036-02-f-d-ems3
+  * package: Connector_PCBEdge
 
 ## 3D Models
 ### KiCAD 6 plus
