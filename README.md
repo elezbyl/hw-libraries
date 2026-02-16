@@ -36,6 +36,10 @@ This project is just set of libraries for EDA tools. Currently the following EDA
   * description: 8-Bit Dual-Supply Bus Transceiver with Configurable Voltage Translation, Tri-State Outputs, and Bus-Hold CircuitryDirection Control Inputs
   * url: https://www.ti.com/lit/ds/symlink/sn74axch8t245.pdf
   * package: Logic_LevelTranslator
+* Bus_PCI_Express_x1_raw:
+  * description: Raw version of the Bus_PCI_Express_x1. This symbol does not include PCIe related signals names
+  * url: n/a
+  * package: Connector
 
 ## Footprints
 ### KiCAD 6 plus
